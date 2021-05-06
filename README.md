@@ -1,6 +1,6 @@
 # webpack-ts
 
-Use TypeScript by Webpack tools
+基于webpack的TypeScript轮子
 
 ## 使用
 
